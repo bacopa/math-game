@@ -1,0 +1,9 @@
+Things I want to improve on:
+
+
+stop relying on global variables
+
+began using strict
+"use strict"
+
+I put all my functions inside init
